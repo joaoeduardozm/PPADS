@@ -1,0 +1,99 @@
+{
+  "campeonatos": [
+    {
+      "0": {},
+      "name": "testecampeonato",
+      "category": {
+        "id": "1",
+        "name": "testunidade"
+      },
+      "id": 2
+    }
+  ],
+  "unidades": [
+    {
+      "name": "testunidade",
+      "cidade": "a",
+      "bairro": "a",
+      "endereço": "a",
+      "services": [],
+      "id": 1
+    },
+    {
+      "name": "teste",
+      "cidade": "a",
+      "bairro": "a",
+      "endereço": "a",
+      "services": [],
+      "id": 2
+    }
+  ],
+  "times": [
+    {
+      "name": "Bola",
+      "id": 1
+    },
+    {
+      "name": "joao eduardo",
+      "id": 2
+    }
+  ],
+  "jogadores": [
+    {
+      "0": {},
+      "name": "pedro",
+      "services": [],
+      "id": 4
+    },
+    {
+      "0": {},
+      "name": "joao eduardo",
+      "services": [],
+      "id": 5
+    },
+    {
+      "0": {},
+      "name": "roberto",
+      "services": [],
+      "id": 6
+    },
+    {
+      "0": {},
+      "name": "asdas",
+      "services": [],
+      "id": 7
+    },
+    {
+      "0": {},
+      "name": "asdasd",
+      "services": [],
+      "id": 8
+    },
+    {
+      "0": {},
+      "name": "pe",
+      "services": [],
+      "id": 9
+    },
+    {
+      "0": {},
+      "name": "nho",
+      "services": [],
+      "id": 10
+    }
+  ],
+  "status": [
+    {
+      "name": "Inscriçoes abertas",
+      "id": 1
+    },
+    {
+      "name": "Em Progresso",
+      "id": 2
+    },
+    {
+      "name": "Encerrado",
+      "id": 1
+    }
+  ]
+}
